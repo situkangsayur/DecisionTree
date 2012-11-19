@@ -292,7 +292,7 @@ public class Main {
                 mainNode = mainNode.getParentNode();
                 //System.out.println(HelpAttribute.getAtribut().get(mainNode.getNumField()).getAttribute());
             }
-
+           // Stringtok
             System.out.println("end");
             step++;
         }
